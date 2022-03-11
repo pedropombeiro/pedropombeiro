@@ -2,6 +2,9 @@
 
 - 🔭 I'm currently working on CI Runner Fleet Management at GitLab.
 - 🌱 I’m currently learning Ruby-on-Rails and PostgreSQL development on a very large SaaS platform.
+- ⚡ Fun facts:
+  - I got introduced to coding when I was around 8 years old as a means of loading games into a Sinclar ZX81.
+  - I've been working in fully distributed teams since 2014, and worked in hybrid teams for 13 years before that.
 
 Skills: Ruby on Rails / Go / C# / Linux / Nix / Bash
 
