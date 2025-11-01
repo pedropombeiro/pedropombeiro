@@ -1,6 +1,6 @@
 # Hi, I'm Pedro Pombeiro 👋
 
-I'm a Senior Backend Engineer at GitLab, currently working on CI Platform and Runner Fleet Visibility. My day-to-day involves deep Ruby on Rails, PostgreSQL, and ClickHouse development for one of the world's largest SaaS/self-managed products.
+I'm a Staff Backend Engineer at GitLab, currently working on CI Platform and Runner Fleet Visibility. My day-to-day involves deep Ruby on Rails, PostgreSQL, and ClickHouse development for one of the world's largest SaaS/self-managed products.
 
 ## 🔧 Tech Stack & Skills
 
