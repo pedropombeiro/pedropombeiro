@@ -28,7 +28,6 @@ I'm a Staff Backend Engineer at GitLab, currently working on CI Platform and Run
 
 ## 🚀 Featured Projects
 
-- [nas](https://github.com/pedropombeiro/nas): Network-attached storage tools and automation.
 - [gitlab-dashboard](https://github.com/pedropombeiro/gitlab-dashboard): Dashboard for GitLab projects and pipelines.
 - [dotfiles](https://github.com/pedropombeiro/dotfiles): My personal dotfiles for productivity.
 - [qnapexporter](https://github.com/pedropombeiro/qnapexporter): QNAP NAS Prometheus exporter.
