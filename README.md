@@ -1,6 +1,3 @@
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedropombeiro&theme=gruvbox&bg_color=00000000&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedropombeiro&theme=gruvbox&bg_color=00000000&hide_border=true&layout=compact)
-
 # Hi, I'm Pedro Pombeiro 👋
 
 I'm a Staff Backend Engineer at GitLab, currently working on CI Platform and Runner Fleet Visibility. My day-to-day involves Ruby on Rails, PostgreSQL, and ClickHouse development for one of the world's largest SaaS/self-managed products.
