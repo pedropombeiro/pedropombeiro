@@ -2,6 +2,8 @@
 
 I'm a Staff Backend Engineer at GitLab, currently working on CI Platform and Runner Fleet Visibility. My day-to-day involves Ruby on Rails, PostgreSQL, and ClickHouse development for one of the world's largest SaaS/self-managed products.
 
+![GitLab Contributor Stats](https://contributors.gitlab.com/users/pedropombeiro/banner.svg)
+
 ## 🔧 Tech Stack & Skills
 
   ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
